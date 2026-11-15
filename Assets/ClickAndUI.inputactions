@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "ClickAndUI",
+    "maps": [
+        {
+            "name": "ClickOn",
+            "id": "ce3a4a12-9f87-4686-a7c0-0e1ab47cc8a7",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "84c685eb-bfaa-43a1-a6a9-b29bd023bde2",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ae5b417d-9cd5-427a-80fd-ddd5f11aaaec",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
